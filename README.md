@@ -1,6 +1,8 @@
+[![Python](https://img.shields.io/badge/Python-Used-blue.svg)](https://shields.io/#/)
+
 # NLP_Study
 
-#### ngram
+#### ngram 개념
 ```
 import re
 string = "하루 10분 강의로 핵심만 쏙쏙! 지금 바로"
